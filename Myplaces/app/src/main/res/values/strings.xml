@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My places</string>
+    <string name="marker_activity_place_one">Monserrate</string>
+    <string name="marker_activity_place_two">Salitre Magico</string>
+    <string name="marker_activity_place_three">Parque el tunal</string>
+    <string name="marker_activity_place_four">Jardin botanico</string>
+</resources>
